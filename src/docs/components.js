@@ -38,8 +38,8 @@ module.exports = {
         properties: {
           code: {
             type: "number", // data-type
-            description: "Status code 0: success, 1 error", // desc
-            example: "1",
+            description: "Status code 0: success", // desc
+            example: "0",
           },
           msg: {
             type: "string", // data-type

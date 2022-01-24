@@ -1,8 +1,12 @@
 # Getir Node.js Challenge
 * This a a RESTful API with a single endpoint that fetches the data in the provided MongoDB collection and return the results in the requested format.
 
+## API Docs
+> Api documentation is available at [Getir-Records-Api-Docs](https://caglagezgen-getir-record-api.herokuapp.com/api-docs/) also you can query the server from here.
+
 ## Heroku Demo Link
-> https://caglagezgen-getir-record-api.herokuapp.com
+> https://caglagezgen-getir-record-api.herokuapp.com/restv1/records for post requests
+
 
 ## Description
 - This a a RESTful API with a single endpoint that fetches the record data in the provided MongoDB collection and return the results in the requested format.
@@ -25,8 +29,7 @@
 > 3. Run project with `npm run dev`
 > 4. Test project with `npm run test`
 
-## API Docs
-* Api documentation is available at [Getir-Records-Api-Docs](https://caglagezgen-getir-record-api.herokuapp.com)
+
 
 ## Demo 
 1.  Welcome to Getir Record Api.
