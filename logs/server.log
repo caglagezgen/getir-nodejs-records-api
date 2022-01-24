@@ -9,3 +9,16 @@ error: Jan-24-2022 15:38:25: 	Error
 error: Jan-24-2022 15:38:44: 	Error
 info: Jan-24-2022 15:38:49: 	Validation get.records body: {"startDate":"2016-01-26","endDate":"2018-02-02","minCount":6000,"maxCount":3000}
 error: Jan-24-2022 15:38:49: 	Error
+info: Jan-24-2022 16:05:12: 	Validation get.records body: {"minCount":69,"maxCount":85,"startDate":"2017-01-28","endDate":"2018-01-28"}
+info: Jan-24-2022 16:05:12: 	Validation get.records body: {"startDate":"301508-02","endDate":"2015-09-03","minCount":30,"maxCount":600}
+error: Jan-24-2022 16:05:12: 	Error
+error: Jan-24-2022 16:05:12: 	Error
+info: Jan-24-2022 16:05:12: 	Validation get.records body: {"startDate":"2017-03-20","endDate":"2018-04-12","maxCount":50}
+error: Jan-24-2022 16:05:12: 	Error
+error: Jan-24-2022 16:05:12: 	Error
+info: Jan-24-2022 16:05:12: 	Validation get.records body: {"startDate":"2016-10-09","endDate":"2018-02-20","minCount":80,"maxCount":20}
+error: Jan-24-2022 16:05:12: 	Error
+error: Jan-24-2022 16:05:12: 	Error
+info: Jan-24-2022 16:05:14: 	Connected to Database
+info: Jan-24-2022 16:05:14: 	Connected to Database
+info: Jan-24-2022 16:05:14: 	Connected to Database
