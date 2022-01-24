@@ -2,7 +2,7 @@
 * This a a RESTful API with a single endpoint that fetches the data in the provided MongoDB collection and return the results in the requested format.
 
 ## Heroku Demo Link
-> 
+> https://caglagezgen-getir-record-api.herokuapp.com
 
 ## Description
 - This a a RESTful API with a single endpoint that fetches the record data in the provided MongoDB collection and return the results in the requested format.
@@ -26,7 +26,7 @@
 > 4. Test project with `npm run test`
 
 ## API Docs
-* Api documentation is available at [Getir-Records-Api-Docs](http://localhost:3000/api-docs/#/Fetch%20Records/Fetch%20Records)
+* Api documentation is available at [Getir-Records-Api-Docs](https://caglagezgen-getir-record-api.herokuapp.com)
 
 ## Demo 
 1.  Welcome to Getir Record Api.
