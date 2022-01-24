@@ -22,3 +22,5 @@ error: Jan-24-2022 16:05:12: 	Error
 info: Jan-24-2022 16:05:14: 	Connected to Database
 info: Jan-24-2022 16:05:14: 	Connected to Database
 info: Jan-24-2022 16:05:14: 	Connected to Database
+info: Jan-24-2022 16:15:18: 	Connected to Database
+info: Jan-24-2022 16:15:43: 	Validation get.records body: {"startDate":"2016-01-26","endDate":"2018-02-02","minCount":2700,"maxCount":3000}
