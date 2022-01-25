@@ -32,7 +32,7 @@
 
 
 ## Demo 
-1.  Welcome to Getir Record Api.
+1.  Welcome to Getir Record API. There is 2 kind of servers such as local and prod.
 
  ![image](./src/demo/screen1.png)
 
@@ -40,7 +40,7 @@
 
  ![image](./src/demo/screen2.png)
 
-3. Execute the query.
+3. Succes Response of the production server.
 
  ![image](./src/demo/screen3.png)
 
